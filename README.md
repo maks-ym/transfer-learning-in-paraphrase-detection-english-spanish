@@ -14,12 +14,11 @@ Abstract is here [abstract_en_ua_pl.md](abstract_en_ua_pl.md)
 ## Folder structure description
 
 ```
-- kod
-  |- data		- embeddings and datasets
-  |- notebooks	- code of experiments
-  \- results	- gathered and processed outputs of experiments described in thesis
-     |- 1-parameters-choosing	- preparational experiments before main training
-	 \- 2-main-training			- training of EN, ES models, EN model retraining and further training of ES model
+- data		- embeddings and datasets
+- notebooks	- code of experiments
+- results	- gathered and processed outputs of experiments described in thesis
+  |- 1-parameters-choosing	- preparational experiments before main training
+  \- 2-main-training		- training of EN, ES models, EN model retraining and further training of ES model
 ```
 
 ## Data

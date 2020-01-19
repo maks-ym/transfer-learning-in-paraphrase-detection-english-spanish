@@ -1,0 +1,9 @@
+{
+    "output_vector_size": 50,
+    "batch_size": 128,
+    "epochs_num": 250,
+    "learning_rate": 0.05,
+    "momentum": 0,
+    "decay": 0.001,
+    "regularization": 0.001
+}

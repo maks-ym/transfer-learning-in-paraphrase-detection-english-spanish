@@ -49,3 +49,6 @@ pip3 install tensorflow==1.12 keras numpy scikit-learn matplotlib nltk bs4 contr
 Running these notebooks is the same as runing any typical Jupyter notebook:
 - go to the 'kod' directory in terminal and run "jupyter notebook"
 - in browser choose notebook you want to run
+
+<br>
+<img src="okładka-pracy-mgr.jpg" height="416" width="300" alt="title_page">
